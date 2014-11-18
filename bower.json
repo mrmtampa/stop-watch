@@ -1,10 +1,10 @@
 {
-  "name": "basePolymer",
+  "name": "stop-watch",
   "description": "",
   "homepage": "",
   "keywords": [
   ],
-  "author": "",
+  "author": "Michael McGuire",
   "private": true,
   "dependencies": {
     "polymer": "Polymer/polymer#master",
